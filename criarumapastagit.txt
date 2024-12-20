@@ -1,0 +1,41 @@
+criar uma pasta
+clicar com botão direito gitbash
+dentro da pasta pela linha de comando
+inciar repositório com o comando git init inicializar repositório
+
+como adicionar arquivos ao controle de versão
+
+comando git add "nome do arquivo"
+git status
+
+git add . adicionar todos os arquivos controle de versão
+
+como criar versões
+
+git commit -m "colocar o que foi feito "
+
+criar o repositório no git hub
+pegar o link e digitar o comando
+git remote add origin https://github.com/MARCIODATA/logicaprogramacao
+git push --set-upstream origin main
+git pull
+git branch --set-upstream-to=origin/<branch> main
+
+Ciclo de atualização de código
+mudar o arquivo
+git status
+git add .
+git commit - "nova versão"
+git push
+
+
+Como verificar histórico de atualizações
+
+git reflog
+
+
+
+
+
+
+
