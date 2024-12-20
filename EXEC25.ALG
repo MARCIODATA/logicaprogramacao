@@ -30,3 +30,4 @@ Fimalgoritmo
 Analise seus comprimentos e diga se é possível formar um triângulo com essas
 retas. Matematicamente, para três segmentos formarem um triângulo, o comprimento
 de cada lado deve ser menor que a soma dos outros dois.
+//adicionado uma linha de comentario para test
